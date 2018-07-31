@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map for Tarsier_Tarsier_RPI_1031
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Tarsier_Tarsier_RPI_1031	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setPins	KEYWORD2
+getDirection	KEYWORD2
+getTiltPosition	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+S1_PIN	LITERAL1
+S2_PIN	LITERAL1
+
+TOP		LITERAL1
+RIGHT	LITERAL1
+LEFT	LITERAL1
+BOTTOM	LITERAL1
