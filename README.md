@@ -1,5 +1,7 @@
 # Tarsier RPI-1031 Direction Sensor.
 
+![Image2](documentation/RPI-1031.png?raw=true "RPI-1031 Direction Sensor")
+
 A minimal *Arduino library* for **RPI-1031** Direction Sensor. 
 
 *RPI-1031 4-Direction Sensor* detects X & Y tilt or motion in 4 quadrant direction. two-bit logic outputs latches and indicates the most recent motion direction.
