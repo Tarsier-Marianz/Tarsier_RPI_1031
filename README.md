@@ -39,3 +39,8 @@ void loop(){
 }
 
 ```
+
+## Circuit Connection
+Wiring connection sample with [**16x2 LCD**](www.e-gizmo.net/oc/index.php?route=product/product&product_id=1302).
+
+![ImageConnection](documentation/Connection.jpg?raw=true "RPI-1031 Direction Sensor Connection")
